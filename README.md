@@ -9,3 +9,4 @@ This repository is a collection of assorted scripts I've written, or accumulated
 
 ## .py scripts
 + Simple Yelp API pull script. Note: Python 2.7
++ scrape_dylan gets the lyrics for all of Bob Dylan's songs from [SongLyrics.com](www.songlyrics.com/bob-dylan-lyrics/)
